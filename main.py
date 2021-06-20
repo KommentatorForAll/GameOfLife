@@ -4,6 +4,10 @@ import time
 import asset
 import numpy as np
 
+"""
+I'm sorry for this bad code, this is my first time working with pygame. 
+"""
+
 assets = {}
 size = (6,6)
 px_size = (20,20)
